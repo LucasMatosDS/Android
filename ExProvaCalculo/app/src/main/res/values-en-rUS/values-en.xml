@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">ExProvaCalculo</string>
+    <string name="ma_pt_nome">name</string>
+    <string name="ma_pt_idade">Age</string>
+    <string name="ma_bt_calcular">calculate</string>
+    <string name="ma_tv_resultado">result</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>   <string name="app_name">ExLayoutTarde</string>
+    <string name="bt_seila">No sei</string>
+    <string name="bt_tchau">Ate más</string>
+    <string name="bt_x">Xis</string>
+    <string name="bt_test">Testa</string>
+    <string name="bt_m">Eme</string>
+</resources>

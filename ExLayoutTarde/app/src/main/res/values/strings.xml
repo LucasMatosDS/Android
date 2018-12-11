@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExLayoutTarde</string>
+    <string name="bt_seila">Sei lá</string>
+    <string name="bt_tchau">Tchau</string>
+    <string name="bt_x">X</string>
+    <string name="bt_test">test</string>
+    <string name="bt_m">M</string>
+
+</resources>

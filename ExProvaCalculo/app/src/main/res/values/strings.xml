@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExProvaCalculo</string>
+    <string name="ma_pt_nome">Nome</string>
+    <string name="ma_pt_idade">idade</string>
+    <string name="ma_bt_calcular">calcular</string>
+    <string name="ma_tv_resultado">resultado</string>
+</resources>
